@@ -1,0 +1,7 @@
+D:\soti_training\soti_back_end_sep2021\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\soti_training\soti_back_end_sep2021\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\soti_training\soti_back_end_sep2021\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\soti_training\soti_back_end_sep2021\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\soti_training\soti_back_end_sep2021\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\soti_training\soti_back_end_sep2021\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\soti_training\soti_back_end_sep2021\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache

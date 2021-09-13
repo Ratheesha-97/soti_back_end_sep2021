@@ -1,0 +1,7 @@
+D:\soti_training\soti_back_end_sep2021\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\soti_training\soti_back_end_sep2021\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\soti_training\soti_back_end_sep2021\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\soti_training\soti_back_end_sep2021\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\soti_training\soti_back_end_sep2021\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\soti_training\soti_back_end_sep2021\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\soti_training\soti_back_end_sep2021\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
