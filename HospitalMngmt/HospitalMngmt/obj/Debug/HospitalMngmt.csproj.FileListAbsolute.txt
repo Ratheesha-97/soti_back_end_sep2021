@@ -1,0 +1,7 @@
+D:\soti_training\soti_back_end_sep2021\HospitalMngmt\HospitalMngmt\obj\Debug\HospitalMngmt.csproj.AssemblyReference.cache
+D:\soti_training\soti_back_end_sep2021\HospitalMngmt\HospitalMngmt\obj\Debug\HospitalMngmt.csproj.CoreCompileInputs.cache
+D:\soti_training\soti_back_end_sep2021\HospitalMngmt\HospitalMngmt\bin\Debug\HospitalMngmt.exe.config
+D:\soti_training\soti_back_end_sep2021\HospitalMngmt\HospitalMngmt\bin\Debug\HospitalMngmt.exe
+D:\soti_training\soti_back_end_sep2021\HospitalMngmt\HospitalMngmt\bin\Debug\HospitalMngmt.pdb
+D:\soti_training\soti_back_end_sep2021\HospitalMngmt\HospitalMngmt\obj\Debug\HospitalMngmt.exe
+D:\soti_training\soti_back_end_sep2021\HospitalMngmt\HospitalMngmt\obj\Debug\HospitalMngmt.pdb
