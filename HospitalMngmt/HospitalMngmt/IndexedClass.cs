@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HospitalMngmt
+namespace IndexedClassDemo
 {
     class IndexedClass
     {
@@ -35,6 +35,7 @@ namespace HospitalMngmt
                     {
                         return index;
                     }
+                    return "";
                 }
             }
             set

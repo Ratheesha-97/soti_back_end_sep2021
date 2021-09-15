@@ -4,12 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HospitalMngmt
-{
+namespace IndexedClassDemo
+{    
+    // for indexed class demo
+    interface IUser
+    {
+        int a { get; set; }
+        void work();
+    }
+
+    class User : IUser
+    {
+        public int a { get => a;
+            set => a = value;
+        }
+
+        void IUser.work()
+        {
+            throw new NotImplementedException();
+        }
+    }
+    
+
+
     class Program
     {
         static void Main(string[] args)
         {
+
+            
             IndexedClass nameList = new IndexedClass();
             nameList[0] = "Ram";
             Console.WriteLine(nameList[0]);
